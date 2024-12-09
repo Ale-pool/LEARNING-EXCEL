@@ -1,0 +1,170 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"\ #,##0;;\-"$"\ #,##0
+P;P"$"\ #,##0;;[Red]\-"$"\ #,##0
+P;P"$"\ #,##0.00;;\-"$"\ #,##0.00
+P;P"$"\ #,##0.00;;[Red]\-"$"\ #,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pd/mm/yyyy
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pd/mm/yyyy\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_-"$"\ * #,##0_-;;\-"$"\ * #,##0_-;;_-"$"\ * "-"_-;;_-@_-
+P;P_-* #,##0_-;;\-* #,##0_-;;_-* "-"_-;;_-@_-
+P;P_-"$"\ * #,##0.00_-;;\-"$"\ * #,##0.00_-;;_-"$"\ * "-"??_-;;_-@_-
+P;P_-* #,##0.00_-;;\-* #,##0.00_-;;_-* "-"??_-;;_-@_-
+P;P0.0%
+P;FAptos Narrow;M220;L9
+P;FAptos Narrow;M220;L9
+P;FAptos Narrow;M220;L9
+P;FAptos Narrow;M220;L9
+P;EAptos Narrow;M220;L9
+P;EAptos Display;M360;L57
+P;EAptos Narrow;M300;SB;L57
+P;EAptos Narrow;M260;SB;L57
+P;EAptos Narrow;M220;SB;L57
+P;EAptos Narrow;M220;L18
+P;EAptos Narrow;M220;L21
+P;EAptos Narrow;M220;L61
+P;EAptos Narrow;M220;L63
+P;EAptos Narrow;M220;SB;L64
+P;EAptos Narrow;M220;SB;L53
+P;EAptos Narrow;M220;L53
+P;EAptos Narrow;M220;SB;L10
+P;EAptos Narrow;M220;L11
+P;EAptos Narrow;M220;SI;L24
+P;EAptos Narrow;M220;SB;L9
+P;EAptos Narrow;M220;L10
+P;ESegoe UI;M200;L9
+P;ESegoe UI Semibold;M210
+P;EAptos Narrow;M220;SU;L50
+P;EAptos Narrow;M220;SU;L26
+F;P0;DG0G10;G;M300
+B;Y9;X8;D0 0 8 7
+O;L;D;V0;K47;G100 0.001
+F;W2 2 13
+F;W4 4 15
+F;W5 5 19
+F;W6 7 14
+F;W8 16384 11
+F;P0;FG0C;SLRTBSM5;Y1;X1
+C;K"Producto"
+F;P0;FG0C;SLRTBSM5;X2
+C;K"Precio Unitario"
+F;P0;FG0C;SLRTBSM5;X3
+C;K"Cantidad"
+F;P0;FG0C;SLRTBSM21;X4
+C;K"Precio "
+F;P0;FG0C;SLRTBSM21;X5
+C;K"Precio con descuento"
+F;P0;FG0C;SSM0;X6
+C;K"Precio Final"
+F;P0;FG0C;SSM0;X7
+C;K"Precio columna"
+F;SLRTBSM5;Y2;X1
+C;K"Producto A"
+F;P34;F$2G;SLRTBSM5;X2
+C;K88959
+F;SLRTBSM5;X3
+C;K10
+F;P34;F$2G;SLRTBSM21;X4
+C;K889590;E RC[-2] *RC[-1]
+F;P34;F$2G;SLRTBSM21;X5
+C;K400315.5;E RC[-1] *R9C8
+F;P34;F$2G;SLRTBSM21;X6
+C;K489274.5;E RC[-2] -RC[-1]
+F;P34;F$2G;X7
+C;K1779180;ESUM(RC[-3]:RC[-1])
+F;SLRTBSM5;Y3;X1
+C;K"Producto B"
+F;P34;F$2G;SLRTBSM5;X2
+C;K46983
+F;SLRTBSM5;X3
+C;K9
+F;P34;F$2G;SLRTBSM21;X4
+C;K422847;E RC[-2] *RC[-1]
+F;P34;F$2G;SLRTBSM21;X5
+C;K190281.15;E RC[-1] *R9C8
+F;P34;F$2G;SLRTBSM21;X6
+C;K232565.85;E RC[-2] -RC[-1]
+F;P34;F$2G;X7
+C;K845694;ESUM(RC[-3]:RC[-1])
+F;SLRTBSM5;Y4;X1
+C;K"Producto C"
+F;P34;F$2G;SLRTBSM5;X2
+C;K87283
+F;SLRTBSM5;X3
+C;K8
+F;P34;F$2G;SLRTBSM21;X4
+C;K698264;E RC[-2] *RC[-1]
+F;P34;F$2G;SLRTBSM21;X5
+C;K314218.8;E RC[-1] *R9C8
+F;P34;F$2G;SLRTBSM21;X6
+C;K384045.2;E RC[-2] -RC[-1]
+F;P34;F$2G;X7
+C;K1396528;ESUM(RC[-3]:RC[-1])
+F;SLRTBSM5;Y5;X1
+C;K"Producto D"
+F;P34;F$2G;SLRTBSM5;X2
+C;K93438
+F;SLRTBSM5;X3
+C;K12
+F;P34;F$2G;SLRTBSM21;X4
+C;K1121256;E RC[-2] *RC[-1]
+F;P34;F$2G;SLRTBSM21;X5
+C;K504565.2;E RC[-1] *R9C8
+F;P34;F$2G;SLRTBSM21;X6
+C;K616690.8;E RC[-2] -RC[-1]
+F;P34;F$2G;X7
+C;K2242512;ESUM(RC[-3]:RC[-1])
+F;SLRTBSM5;Y6;X1
+C;K"Producto E"
+F;P34;F$2G;SLRTBSM5;X2
+C;K85329
+F;SLRTBSM5;X3
+C;K4
+F;P34;F$2G;SLRTBSM21;X4
+C;K341316;E RC[-2] *RC[-1]
+F;P34;F$2G;SLRTBSM21;X5
+C;K153592.2;E RC[-1] *R9C8
+F;P34;F$2G;SLRTBSM21;X6
+C;K187723.8;E RC[-2] -RC[-1]
+F;P34;F$2G;X7
+C;K682632;ESUM(RC[-3]:RC[-1])
+F;SSM0;Y7;X3
+C;K"Precio fila "
+F;P34;F$2G;X4
+C;K3473273;ESUM(R[-5]C:R[-1]C)
+F;P34;F$2G;SLRSM21;X5
+C;K1562972.85;ESUM(R[-5]C:R[-1]C)
+F;P34;F$2G;SLRSM21;X6
+C;K1910300.15;ESUM(R[-5]C:R[-1]C)
+F;P34;F$2G;X7
+C;K6946546;ESUM(RC[-3]:RC[-1])
+F;P0;FG0C;SSM0;Y8;X8
+C;K"Descuento"
+F;P13;F%0G;SSM0;Y9
+C;K0.45;E 45/100
+E
